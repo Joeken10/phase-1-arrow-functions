@@ -1,6 +1,6 @@
-let divide = (a,b) => a/b;
+var divide = (a,b) => a/b;
  
-let square = (x) => x * x;
+var square = (x) => x * x;
 
-let add = (a,b) => a + b;
+var add = (a,b) => a + b;
 
